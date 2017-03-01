@@ -30,3 +30,6 @@ and server on different machine is still under development till
 please be with me. 
 
 ----------------------------------------------------------------
+------------------------------------------------------------------------------
+
+For Hugs and Bugs drop a mail at sushantoberoi3@gmail.com
